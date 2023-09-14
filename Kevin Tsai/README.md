@@ -8,7 +8,7 @@ Room: R104, Building #德田, National Taiwan University
 
 Lecture Notes:
 
-- [The Learning Problem]()
+- [The Learning Problem](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Notes/TheLearningProblem.md)
 
 
 Practice: [Link](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Notes/README.md)
