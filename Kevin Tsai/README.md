@@ -11,6 +11,6 @@ Lecture Notes:
 - [The Learning Problem](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Notes/TheLearningProblem.md)
 
 
-Practice: [Link](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Notes/README.md)
+Practice: [Link](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Practice/README.md)
 
 Assignments: [Link](https://github.com/KevinTsaiCodes/NTU-CSIE5043/blob/main/Kevin%20Tsai/Assignments/README.md)
